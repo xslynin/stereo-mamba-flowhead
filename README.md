@@ -1,2 +1,2 @@
 # stereo-mamba-flowhead
-raft-stereo with mamba-based enhanced flow head module
+With paper name: Mamba Flow Head: Polar Constraint Module for Stereo Matching (In submitting)
